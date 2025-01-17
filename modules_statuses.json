@@ -1,0 +1,8 @@
+{
+    "Auth": true,
+    "Region": true,
+    "Area": true,
+    "Shop": true,
+    "Vehicle": true,
+    "Employee": true
+}
